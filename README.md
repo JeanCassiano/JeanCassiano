@@ -1,7 +1,6 @@
 # 💫 About Me:
 ⚡ Full-Stack Developer & AI Researcher | Computer Engineering @ USP<br><br>🔭 Currently working on: A Full-Stack AI system leveraging Large Language Models (LLMs) to detect fake news and promote digital literacy at the Institute of Mathematics and Computer Science (ICMC-USP).<br><br>🎓 Education: Undergraduate in Computer Engineering at EESC–USP, currently on an academic exchange program in the Netherlands.<br><br>⚙️ Technical Focus: Deepening expertise in C++, modern Software Architecture, and AI integrations.<br><br>🚀 Goal: Bridging the gap between complex technical challenges and strategic, impactful software solutions.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jean_cassiano_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-cassiano) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jean.cassiano@usp.br) 
 
@@ -14,8 +13,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JeanCassiano&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
