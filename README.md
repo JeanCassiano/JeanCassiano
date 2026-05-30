@@ -47,16 +47,3 @@ Computer Engineering undergraduate at **EESC–USP**, currently on an academic e
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JeanCassiano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCassiano&layout=compact&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JeanCassiano&hide_border=true&theme=transparent" alt="GitHub Streak">
-</p>
