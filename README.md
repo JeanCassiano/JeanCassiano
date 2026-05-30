@@ -1,19 +1,62 @@
-# 💫 About Me:
-⚡ Full-Stack Developer & AI Researcher | Computer Engineering @ USP<br><br>🔭 Currently working on: A Full-Stack AI system leveraging Large Language Models (LLMs) to detect fake news and promote digital literacy at the Institute of Mathematics and Computer Science (ICMC-USP).<br><br>🎓 Education: Undergraduate in Computer Engineering at EESC–USP, currently on an academic exchange program in the Netherlands.<br><br>⚙️ Technical Focus: Deepening expertise in C++, modern Software Architecture, and AI integrations.<br><br>🚀 Goal: Bridging the gap between complex technical challenges and strategic, impactful software solutions.
+<h1 align="center">Jean Cassiano</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jean_cassiano_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-cassiano) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jean.cassiano@usp.br) 
+<p align="center">
+  Full-Stack Developer &amp; AI Researcher · Computer Engineering @ USP
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white.) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JeanCassiano&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=JeanCassiano&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JeanCassiano&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/jean-cassiano"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jean.cassiano@usp.br"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/jean_cassiano_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JeanCassiano&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
 
+Computer Engineering undergraduate at **EESC–USP**, currently on an academic exchange program in the Netherlands. My work sits at the intersection of software architecture and applied AI, with a focus on building systems that turn complex technical problems into reliable, impactful products.
 
+- **Current project** — A full-stack AI system that uses Large Language Models to detect fake news and promote digital literacy, developed at the Institute of Mathematics and Computer Science (**ICMC–USP**).
+- **Technical focus** — C++, modern software architecture, and production-grade AI/LLM integrations.
+- **Goal** — Bridging the gap between deep technical challenges and strategic software solutions.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Data & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JeanCassiano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCassiano&layout=compact&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JeanCassiano&hide_border=true&theme=transparent" alt="GitHub Streak">
+</p>
