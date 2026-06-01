@@ -86,7 +86,3 @@ class JeanCassiano:
 </div>
 
 ---
-
-<p align="center">
-  <i>Bridging deep technical challenges and strategic software solutions.</i>
-</p>
