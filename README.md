@@ -37,7 +37,7 @@ class JeanCassiano:
 
 ## 🚀 What I'm Working On
 
-🔬 **Fake News Detection Platform** — A full-stack AI system that leverages **Large Language Models** to detect misinformation and promote digital literacy. Developed at the Institute of Mathematics and Computer Science (**ICMC–USP**).
+🔬 **Fake News Detection** — A full-stack AI system that leverages **Large Language Models** to detect misinformation and promote digital literacy. Developed at the Institute of Mathematics and Computer Science (**ICMC–USP**).
 
 📌 **Technical Focus** — C++, modern software architecture, and production-grade AI/LLM integrations.
 
