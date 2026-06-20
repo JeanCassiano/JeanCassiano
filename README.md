@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Engineering undergraduate at **EESC–USP**, currently on an academic exchange program in the Netherlands. My work sits at the intersection of **software architecture** and **applied AI**, with a focus on building systems that turn complex technical problems into reliable, impactful products.
+Computer Engineering undergraduate at **EESC/ICMC–USP**, currently on an academic exchange program in the Netherlands. My work sits at the intersection of **software architecture** and **applied AI**, with a focus on building systems that turn complex technical problems into reliable, impactful products.
 
 ```python
 class JeanCassiano:
